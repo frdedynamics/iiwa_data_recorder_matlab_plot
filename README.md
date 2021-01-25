@@ -1,4 +1,4 @@
-# iiwa_datalogger_matlab_plot
+# iiwa_data_recorder_matlab_plot
 Data collected from a KUKA LBR iiwa R820 14kg payload robot.
 
 Using DataRecorder.
